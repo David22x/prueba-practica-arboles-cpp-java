@@ -72,7 +72,7 @@ El BST se ordena por **cédula** (string comparación lexicográfica):
 - **Clases y objetos**: `ArbolBST`, `Nodo`, `Estudiante`
 - **Validación de datos**: rango de nota (0–10), nivel (1–10), campos no vacíos
 
-## Capturas de ejecución
+## Capturas de ejecución en C++
 
 ![alt text](image.png)
 ![alt text](image-1.png)
