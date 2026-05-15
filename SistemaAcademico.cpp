@@ -306,7 +306,7 @@ public:
         cout << "\n  === RECORRIDO PREORDEN ===\n";
         if (raiz == nullptr)
         {
-            cout << "  Árbol vacío.\n";
+            cout << "  Árbol vacío\n";
             return;
         }
         preorden(raiz);
@@ -330,7 +330,7 @@ public:
         cout << "\n === RECORRIDO BFS (por niveles) ===\n";
         if (raiz == nullptr)
         {
-            cout << "  Árbol vacío.\n";
+            cout << "  Árbol vacío\n";
             return;
         }
 
@@ -378,7 +378,7 @@ public:
         }
         else
         {
-            cout << "  Árbol vacío.\n";
+            cout << "  Árbol vacío\n";
         }
     }
 
@@ -393,7 +393,7 @@ public:
         }
         else
         {
-            cout << "  Árbol vacío.\n";
+            cout << "  Árbol vacío\n";
         }
     }
 
@@ -403,7 +403,7 @@ public:
         cout << "\n  === ESTUDIANTES APROBADOS (nota ≥ 7.0) ===\n";
         if (raiz == nullptr)
         {
-            cout << "  Árbol vacío.\n";
+            cout << "  Árbol vacío\n";
             return;
         }
         aprobados(raiz);
@@ -415,7 +415,7 @@ public:
         cout << "\n  === ESTUDIANTES REPROBADOS (nota < 7.0) ===\n";
         if (raiz == nullptr)
         {
-            cout << "  Árbol vacío.\n";
+            cout << "  Árbol vacío\n";
             return;
         }
         reprobados(raiz);
